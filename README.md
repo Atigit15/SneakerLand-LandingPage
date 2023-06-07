@@ -15,3 +15,5 @@ To run the Sneakerland landing page, you need the following dependencies:
    
 ## License
 The Sneakerland landing page is open source and released under the MIT License. You can freely use, modify, and distribute this project. Refer to the LICENSE file for more information.
+
+A special thanks to Kishan Sheth.
