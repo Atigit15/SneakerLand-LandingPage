@@ -1,8 +1,8 @@
+![Sneakerland Screenshot](screenshots/ss1.png)
 # Sneakerland 
 
 Welcome to Sneakerland, a landing page for sneaker enthusiasts. This project is completely responsive and is built using HTML, SCSS, and JavaScript. It provides a visually appealing and user-friendly interface to showcase different sneaker models.
-
-![Sneakerland Screenshot](screenshots/ss1.png)
+<p align="center"><img src="screenshots/gif1.gif"></p>
 
 ## Dependencies
 
