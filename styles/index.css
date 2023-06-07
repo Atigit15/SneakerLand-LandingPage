@@ -368,10 +368,9 @@ nav .links-container .auth-buttons button:nth-of-type(2):hover {
 .services .service:nth-of-type(3) {
   border-radius: 5rem;
   background-size: cover;
-  background-color: black;
+  background-color: rgb(30, 28, 28);
 }
 .services .service:nth-of-type(3) .image {
-  filter: invert(100%);
   transform: scale(-1, 1);
 }
 .services .service:nth-of-type(3) .title, .services .service:nth-of-type(3) h4 {

@@ -44,7 +44,8 @@
       border-radius: 5rem;
       background-size: cover;
       .image{
-        filter: invert(100%);
+        // filter: invert(100%);
+        // border-radius: 5rem;
         transform: scale(-1,1);
       }
       .title, h4{
@@ -54,7 +55,7 @@
         padding: 3rem;
       }
       // margin: 2rem 2rem 2rem 2rem;
-      background-color: black;
+      background-color: rgb(30, 28, 28);
     }
   }
   @media screen and (min-width: 280px) and (max-width: 1080px) {
